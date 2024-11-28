@@ -1,2 +1,0 @@
-# maxerphish
-best phisher tool
